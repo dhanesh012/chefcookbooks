@@ -1,1 +1,5 @@
 authentication_file
+.chef/dhanesh012.pem
+.chef/knife.rb
+.chef/trusted_certs/DigiCert_SHA2_Secure_Server_CA.crt
+.chef/trusted_certs/wildcard_opscode_com.crt
